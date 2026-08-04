@@ -37,7 +37,6 @@ zip -r qa-testing-guide.zip qa-testing-guide/ ~/.workbuddy/skills/qa-testing-gui
 ```bash
 git clone https://github.com/genapohub/qa-testing-guide.git
 zip -r qa-testing-guide.zip qa-testing-guide/
-zip -r qa-testing-guide.zip qa-testing-guide/
 ```
 然后在 WorkBuddy 桌面端 → **技能市场** → **添加技能/上传技能** → **点击"跳过检测，直接安装"**。
 
