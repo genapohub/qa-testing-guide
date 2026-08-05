@@ -29,8 +29,7 @@
 
 **方式一：克隆到 skills 目录**
 ```bash
-git clone https://github.com/genapohub/qa-testing-guide.git
-zip -r qa-testing-guide.zip qa-testing-guide/ ~/.workbuddy/skills/qa-testing-guide
+git clone https://github.com/genapohub/qa-testing-guide.git ~/.workbuddy/skills/qa-testing-guide
 ```
 
 **方式二：ZIP导入**
@@ -53,12 +52,10 @@ Trae → **设置** → **Rules & Skills** → **创建** → 上传 `qa-testing
 
 ```bash
 # 克隆到 skills 目录
-git clone https://github.com/genapohub/qa-testing-guide.git
-zip -r qa-testing-guide.zip qa-testing-guide/ ~/.codex/skills/qa-testing-guide
+git clone https://github.com/genapohub/qa-testing-guide.git ~/.codex/skills/qa-testing-guide
 
 # 或使用 cc switch (推荐)
-git clone https://github.com/genapohub/qa-testing-guide.git
-zip -r qa-testing-guide.zip qa-testing-guide/ ~/.cc-switch/skills/qa-testing-guide
+git clone https://github.com/genapohub/qa-testing-guide.git ~/.cc-switch/skills/qa-testing-guide
 ```
 
 重启 CC Switch客户端/Codex客户端 后自动发现。也可以在对话中输入 `$qa-testing-guide` 手动调用。
@@ -66,8 +63,7 @@ zip -r qa-testing-guide.zip qa-testing-guide/ ~/.cc-switch/skills/qa-testing-gui
 ### Cursor
 ```bash
 # 克隆到 skills 目录
-git clone https://github.com/genapohub/qa-testing-guide.git
-zip -r qa-testing-guide.zip qa-testing-guide/ ~/.cursor/skills-cursor/qa-testing-guide
+git clone https://github.com/genapohub/qa-testing-guide.git ~/.cursor/skills-cursor/qa-testing-guide
 ```
 
 重启 Cursor客户端 后自动发现。也可以在对话中输入 `$qa-testing-guide` 手动调用。
