@@ -63,6 +63,14 @@ git clone https://github.com/genapohub/qa-testing-guide.git ~/.cursor/skills-cur
 
 ---
 
+
+## 特性
+
+- 5 类场景自动路由识别，产出清单按场景裁剪
+- **内置可填空模板**：方法论内置「测试用例 / 性能测试场景」，产出时按占位符直接填充，文档规范度对齐业界标准
+
+---
+
 ## 使用
 
 ```
